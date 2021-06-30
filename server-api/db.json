@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": "1a0679ef-8b4b-4046-be4e-596c0e735141",
+      "name": "Krishna Kanhaiya",
+      "email": "kkanhaiya@dstrat.com"
+    },
+    {
+      "id": "1a0679ef-8b4b-4046-be4e-596c0e735121",
+      "name": "Test User",
+      "email": "test@gmail.com"
+    }
+  ]
+}
